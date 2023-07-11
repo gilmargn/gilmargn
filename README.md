@@ -1,7 +1,7 @@
 ### Olá👋
 
 
-**gilmargn/gilmargn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**gilmargn/gilmargn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 - 🔭 Professor de informática e programação no IFAM - Campus Avançado Boca do Acre
