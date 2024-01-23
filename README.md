@@ -14,12 +14,18 @@
 
 # 2024
 Ingresia - Franciel Cruz
+
 Assim foi temperado o aço - Nikolai Ostrovski 
 
+
 # 2023
+
 O processo - Franz Kafka
+
 Metamorfose - Franz Kafka
+
 A flor da Inglaterra - George Orwell
+
 A vida não é útil - Ailton Krenak
 
 
