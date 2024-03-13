@@ -1,155 +1,173 @@
 # 2024
-Ingresia - Franciel Cruz
+- Ingresia - Franciel Cruz
 
-Assim foi temperado o aço - Nikolai Ostrovski 
+- Assim foi temperado o aço - Nikolai Ostrovski 
 
 
 # 2023
 
-O processo - Franz Kafka
+- O processo - Franz Kafka
 
-Metamorfose - Franz Kafka
+- Metamorfose - Franz Kafka
 
-A flor da Inglaterra - George Orwell
+- A flor da Inglaterra - George Orwell
 
-A vida não é útil - Ailton Krenak
+- A vida não é útil - Ailton Krenak
 
-Terras do sem fim - Jorge Amado
+- Terras do sem fim - Jorge Amado
 
-Nós - Evgeni Zamiatin
+- Nós - Evgeni Zamiatin
 
-Astrofísica para apressados -  Neil Degrasse Tyson
+- Astrofísica para apressados -  Neil Degrasse Tyson
+
+# 2021
+
+- O idiota - Fiódor Dostoiévski
+- O conto da Aia -  Margaret Atwood 
+
 
 # 2020
 
-Cem anos de solidão
+- Cem anos de solidão  - Gabriel Garcia Marquez
+ 
+- Crime e Castigo  - Fiodor Dostoeivski
 
-Crime e Castigo
+- Uma breve história da humanidade,  Sapiens - Harari
 
-Uma breve história da humanidade - Sapiens
+- Mendax, o ladrão de Histórias - Breno Fernandes
 
-Mendax - Ladrão de Histórias
+- Contos do Machado de Assis
 
-Contos do Machado de Assis
+- Contos Clarice Lispector
 
-Contos Clarice Lispector
+- O programador apaixonado
 
-O programador apaixonado
+- A sociedade do cansaço  - Byung-Chul Han
+
+
+# 2019
+
+- O homem revoltado - Alberto Camus
+- Você não merece ser feliz
+- Amanhã vai ser maior
+- Tudo que você precisou desaprender para virar um idiota
+- Este livro não vai te deixar rico 
 
 # 2018
 
-A insustentável leveza do ser
+- A insustentável leveza do ser
 
-Cibercultura
+- Cibercultura
 
-O mundo de Sofia
+- O mundo de Sofia
 
-Don Quijote(esp) (não finalizado)
+- Don Quijote(esp) (não finalizado)
 
-O grande massacre de gatos
+- O grande massacre de gatos
+
 
 # 2017
 
-O guia dos mochileiros da galáxia
+- O guia dos mochileiros da galáxia
 
-O príncipe
+- O príncipe
 
-A mulher de trinta anos
+- A mulher de trinta anos
 
-O universo numa casca de noz
+- O universo numa casca de noz
 
-A legião estrangeira
+- A legião estrangeira
 
-Somos todos canalhas
+- Somos todos canalhas
 
-Persepolis(eng)
+- Persepolis(eng)
 
-O restaurante no fim do universo
+- O restaurante no fim do universo
 
-A vida, o universo e tudo mais.
+- A vida, o universo e tudo mais.
 
-Ana Karenina
+- Ana Karenina
 
-Cinevertigem
+- Cinevertigem
 
-O ateneu
+- O ateneu
 
-Política para não ser idiota
+- Política para não ser idiota
 
-Era uma vez um corredor
+- Era uma vez um corredor
 
-El fútbol a sol y sombra y otros escritos(esp)
+- El fútbol a sol y sombra y otros escritos(esp)
 
-Até mais e obrigado pelos peixes!
+- Até mais e obrigado pelos peixes!
 
-Admirável mundo novo
+- Admirável mundo novo
 
-A arte da guerra
+- A arte da guerra
 
-Espelhos
+- Espelhos
 
-Tenho AIDS e estou viva
+- Tenho AIDS e estou viva
 
-Praticamente inofensiva
+- Praticamente inofensiva
 
-Eu sou Malala
+- Eu sou Malala
 
-O retrato de Dorian Gray
+- O retrato de Dorian Gray
 
-O homem que sabia Javanês e outros contos
+- O homem que sabia Javanês e outros contos
 
-Morte e vida Severina
+- Morte e vida Severina
 
-Contos sem data
+- Contos sem data
 
 # 2016
 
-1984
+- 1984
 
-A cabana
+- A cabana
 
-A fortaleza Digital
+- A fortaleza Digital
 
-A revolução dos bichos
+- A revolução dos bichos
 
-Guerra e Paz
+- Guerra e Paz
 
-La ciudad de las bestias(esp)
+- La ciudad de las bestias(esp)
 
-O alquimista
+- O alquimista
 
-O pequeno príncipe 
+- O pequeno príncipe 
 
-O triste fim de Policarpo Quaresma
+- O triste fim de Policarpo Quaresma
 
-Voo para escuridão
+- Voo para escuridão
 
 # 2015 ou antes
 
-Free Software Free Society(eng)
+- Free Software Free Society(eng)
 
-The catedral and the Bazaar(eng)
+- The catedral and the Bazaar(eng)
 
-The ethical hacker(eng)
+- The ethical hacker(eng)
 
-A galáxia da internet(por)
+- A galáxia da internet(por)
 
-La história me absolverá(esp)
+- La história me absolverá(esp)
 
-Alice in the Wonderful Land(eng)
+- Alice in the Wonderful Land(eng)
 
-A montanha é algo mais que uma imensa estepe verde(por)
+- A montanha é algo mais que uma imensa estepe verde(por)
 
-O homem que calculava(por)
+- O homem que calculava(por)
 
-O Ditador do cerrado(por)
+- O Ditador do cerrado(por)
 
-Iracema
+- Iracema
 
-O cortiço
+- O cortiço
 
-Dom Casmurro
+- Dom Casmurro
 
-Memória Póstumas de Brás Cuba
+- Memória Póstumas de Brás Cuba
 
-Quincas Borbas
+- Quincas Borbas
