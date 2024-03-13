@@ -24,6 +24,9 @@
 
 - O idiota - Fiódor Dostoiévski
 - O conto da Aia -  Margaret Atwood 
+- Homem comum - Philip Roth
+- Alice no país do quantum - Robert Gilmore
+- O relojoeiro cego - Richard Dawkins
 
 
 # 2020
@@ -32,7 +35,7 @@
  
 - Crime e Castigo  - Fiodor Dostoeivski
 
-- Uma breve história da humanidade,  Sapiens - Harari
+- Sapiens, Uma breve história da humanidade - Yuval Noah Harari
 
 - Mendax, o ladrão de Histórias - Breno Fernandes
 
@@ -48,22 +51,22 @@
 # 2019
 
 - O homem revoltado - Alberto Camus
-- Você não merece ser feliz
-- Amanhã vai ser maior
-- Tudo que você precisou desaprender para virar um idiota
-- Este livro não vai te deixar rico 
+- Você não merece ser feliz: Como conseguir mesmo assim - Daniel Furlan
+- Amanhã vai ser maior - Rosana Pinheiro Machado
+- Tudo que você precisou desaprender para virar um idiota - Meteoro Brasil
+- Este livro não vai te deixar rico  - Startup da Real
 
 # 2018
 
-- A insustentável leveza do ser
+- A insustentável leveza do ser - Milan Kundera
 
-- Cibercultura
+- Cibercultura - Pierre Lévy
 
-- O mundo de Sofia
+- O mundo de Sofia - Jostein Gaarder 
 
 - Don Quijote(esp) (não finalizado)
 
-- O grande massacre de gatos
+- O grande massacre de gatos - Robert Darnton
 
 
 # 2017
