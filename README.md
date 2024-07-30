@@ -5,6 +5,7 @@
 
 
 - 🔭 Professor de informática e programação no IFAM - Campus Avançado Boca do Acre
+- 🔭 Discente do Mestrado Profissional PPGCA - UTFPR - Campus Curitiba
 - 🌱 Estou aprendendo e ensinando as disciplinas de Programação Orientada a Objetos, Estrutura de Dados
 - 😄 Usuário de GNU/Linux e outros software livre
 - ⚡ Me divirto usando LaTeX para elaborar atividades, relatórios e outros documentos.
