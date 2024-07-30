@@ -3,6 +3,12 @@
 
 - Assim foi temperado o aço - Nikolai Ostrovski 
 
+- Homem que é homem não dança - Norman Mailer
+
+- Gente pobre - Fiódor Mikhailovitch Dostoiévski 
+
+- A Biblioteca da Meia-noite -  Matt Haig 
+
 
 # 2023
 
