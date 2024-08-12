@@ -7,7 +7,7 @@
 
 - Gente pobre - Fiódor Mikhailovitch Dostoiévski 
 
-- A Biblioteca da Meia-noite -  Matt Haig 
+- A hora da estrela - Clarice Lispector 
 
 
 # 2023
@@ -49,7 +49,7 @@
 
 - Contos Clarice Lispector
 
-- O programador apaixonado
+- O programador apaixonado - Chad Fowler 
 
 - A sociedade do cansaço  - Byung-Chul Han
 
@@ -77,57 +77,57 @@
 
 # 2017
 
-- O guia dos mochileiros da galáxia
+- O guia dos mochileiros da galáxia - Douglas Adam
 
-- O príncipe
+- O príncipe - Nicolau Maquiavel
+ 
+- A mulher de trinta anos - Honoré de Balzac
 
-- A mulher de trinta anos
+- O universo numa casca de noz - Stephen Hawking
 
-- O universo numa casca de noz
+- A legião estrangeira - Clarice Lispector
 
-- A legião estrangeira
+- Somos todos canalhas - Júlio Pompeu, Clóvis de Barros Filho
 
-- Somos todos canalhas
+- Persepolis(eng) - Marjane Satrapi 
 
-- Persepolis(eng)
+- O restaurante no fim do universo - Douglas Adam
 
-- O restaurante no fim do universo
+- A vida, o universo e tudo mais - Douglas Adam
 
-- A vida, o universo e tudo mais.
+- Ana Karenina - Liev Tolstói
 
-- Ana Karenina
+- Cinevertigem - Ricardo Soares
 
-- Cinevertigem
+- O ateneu - Raul Pompeia
 
-- O ateneu
+- Política para não ser idiota - Renato Janine Ribeiro, Mario Sergio Cortella
 
-- Política para não ser idiota
+- Era uma vez um corredor - John L. Parker Jr
 
-- Era uma vez um corredor
+- El fútbol a sol y sombra y otros escritos(esp) - Eduardo Galeano
 
-- El fútbol a sol y sombra y otros escritos(esp)
+- Até mais e obrigado pelos peixes! - Douglas Adam
 
-- Até mais e obrigado pelos peixes!
+- Admirável mundo novo - Aldous Huxley
 
-- Admirável mundo novo
-
-- A arte da guerra
+- A arte da guerra - Sun Tzu
 
 - Espelhos
 
-- Tenho AIDS e estou viva
+- Tenho AIDS e estou viva - Rosilda Marinho
 
-- Praticamente inofensiva
+- Praticamente inofensiva - Douglas Adam
 
-- Eu sou Malala
+- Eu sou Malala -  Malala Yousafzai 
 
-- O retrato de Dorian Gray
+- O retrato de Dorian Gray - Oscar Wilde
 
-- O homem que sabia Javanês e outros contos
+- O homem que sabia Javanês e outros contos - Lima Barreto
 
-- Morte e vida Severina
+- Morte e vida Severina - João Cabral de Melo Neto
 
-- Contos sem data
+- Histórias sem data  - Machado de Assis
 
 # 2016
 
