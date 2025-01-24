@@ -9,6 +9,8 @@
 
 - A hora da estrela - Clarice Lispector 
 
+- Cinzas do Norte - Milton Hatoum
+
 
 # 2023
 
