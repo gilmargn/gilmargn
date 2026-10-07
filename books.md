@@ -1,9 +1,10 @@
 # 2026
-- Nada mais será como antes - Miguel Nicolelis 
+- Nada mais será como antes - Miguel Nicolelis
+- Tá pensando que tudo é futebol?: Reminiscências & Contradições - Franciel Cruz
 
 
 # 2024
-- Ingresia - Franciel Cruz
+- Ingresia: Chibanças e Seiscentos Demônhos - Franciel Cruz
 
 - Assim foi temperado o aço - Nikolai Ostrovski 
 
